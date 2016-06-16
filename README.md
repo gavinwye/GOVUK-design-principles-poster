@@ -7,7 +7,7 @@ If there are typos and mistakes raise an issue and I'll fix them when I can. Or,
 The posters are artwoked in [Sketch](https://www.sketchapp.com/).
 
 ## Printing
-These are intended to be printed at A0 they will _probably_ work at other sizes.
+These are intended to be printed at A0 they will _probably_ work at other sizes. I may create other sizes in time.
 
 
 
