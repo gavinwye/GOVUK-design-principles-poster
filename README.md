@@ -1,4 +1,4 @@
-# GDS-design-principles-poster
+# Government Digital Service design principles poster
 Posters in support of the GDS design principles.
 These are supposed to stay as close to the principles on GOV.UK as possible. It didnt make sence to reproduce some on the content on the page because it links off to a photo of the original [7 principles](https://www.flickr.com/photos/benterrett/7041509709/).
 
