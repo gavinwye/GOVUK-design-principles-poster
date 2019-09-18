@@ -1,4 +1,4 @@
-# NEW - Mark Hurrel from GDS published new posters on the 18th September
+# NEW official posters - Mark Hurrel from GDS published new posters on the 18th September
 
 Read the [post](https://designnotes.blog.gov.uk/2019/09/18/new-design-principles-posters/) and [download](https://github.com/alphagov/govdesign/blob/master/Poster_GovernmentDesignPrinciples.pdf) 
 
